@@ -45,7 +45,7 @@ export default function Portfolio() {
             <section id="about" className="py-16 px-6 max-w-4xl mx-auto">
                 <h2 className="text-3xl font-semibold mb-4">Behind the Code</h2>
                 <p className="text-lg leading-relaxed">
-                    I'm a results-driven software engineer with hands-on experience in full-stack development, data analytics, and cloud computing. With a Master's degree in Computer Science from The University of Texas at Arlington, I specialize in building scalable applications, designing real-time data pipelines, and automating cloud-native deployments.
+                    I'm a results-driven Data Analyst with hands-on experience in full-stack development, data analytics, and cloud computing. With a Master's degree in Computer Science from The University of Texas at Arlington, I specialize in building scalable applications, designing real-time data pipelines, and automating cloud-native deployments.
                 </p>
                 <p className="text-lg leading-relaxed mt-4">
                     Proficient in Java, Python, SQL, and modern web technologies, I thrive on solving complex problems and delivering efficient, high-quality solutions.
